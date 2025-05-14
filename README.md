@@ -1,13 +1,16 @@
-<img src="https://github.com/MenghoutChhon/MenghoutChhon/assets/YOUR_BANNER_IMAGE_ID" width="100%" />
+<!-- Banner Image -->
+<img src="https://github.com/MenghoutChhon/MenghoutChhon/assets/main/banner.png" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FFFF&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;Data+Science+Engineer+%7C+AI+Explorer+%7C+Cyberpunk+Dreamer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;Data+Science+Engineer+%7C+AI+Explorer+%7C+Blockchain+Enthusiast+%7C+Cyberpunk+Dreamer;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Powershell-5A4FCF?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-PowerShell-5A4FCF?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-Solidity-363636?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
