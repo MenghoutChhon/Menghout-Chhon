@@ -1,5 +1,4 @@
 <!-- Banner Image -->
-<img src="https://user-images.githubusercontent.com/12345678/your-banner.png" width="100%" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;AI+%7C+ML+%7C+Deep+Learning+%7C+Blockchain+%7C+Data+Engineering+%7C+Cloud+Analytics;" alt="Typing SVG" />
