@@ -22,12 +22,12 @@
 ## 🌐 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menghout-chhon/)
-📧 **Email:** menghoutchhon003@gmail.com  
 📍 Phnom Penh, Cambodia
 
 ---
 
 ## 💡 Fun Fact
 
-_"I believe data isn’t just numbers; it’s a story waiting to be told."_ 📊✨
+_Je suis un gars cool et j'adore aller en boîte de nuit._ 🎶🍻
+
 
