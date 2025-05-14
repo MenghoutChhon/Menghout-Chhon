@@ -1,8 +1,10 @@
 <!-- Banner Image -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;AI+%7C+ML+%7C+Deep+Learning+%7C+Blockchain+%7C+Data+Engineering+%7C+Cloud+Analytics;" alt="Typing SVG" />
-</h1>
+<div style="text-align: center;">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;AI+%7C+ML+%7C+Deep+Learning+%7C+Blockchain+%7C+Data+Engineering+%7C+Cloud+Analytics;" alt="Typing SVG" />
+  </h1>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-%2300FFFF?style=for-the-badge&logo=openai&logoColor=black" />
