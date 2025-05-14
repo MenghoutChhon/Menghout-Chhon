@@ -1,21 +1,36 @@
-# 👋 Hello, I'm Chhon Menghout!
+<img src="https://github.com/MenghoutChhon/MenghoutChhon/assets/YOUR_BANNER_IMAGE_ID" width="100%" />
 
-🎓 A passionate **Data Science Engineering student** at the Institute of Technology of Cambodia, with hands-on experience in **Machine Learning, Deep Learning, Data Engineering**, and **Business Intelligence**. I thrive on solving complex problems, building real-time dashboards, and developing predictive models that turn data into actionable insights.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FFFF&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;Data+Science+Engineer+%7C+AI+Explorer+%7C+Cyberpunk+Dreamer;" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-Powershell-5A4FCF?style=flat-square&logo=powershell&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 📊 Currently exploring **time series forecasting** and **large language models (LLMs)**
-- 💾 Experienced in **data warehousing, dashboard development, and predictive analytics**
-- 🔍 Always eager to collaborate on **data science, AI, and analytics projects**
+🎓 I’m a passionate **Data Science Engineering student** at the Institute of Technology of Cambodia.  
+I thrive on solving real-world problems using:
+- 🧮 Machine Learning & Deep Learning
+- 📈 Data Engineering & Data Warehousing
+- 📊 Business Intelligence & Predictive Modeling
+
+Currently exploring **time series forecasting** and **large language models (LLMs)**.
 
 ---
 
-## 🛠️ Technical Skills
+## 👾 Cyber Skills
 
-- **Languages & Tools:** Python (Scikit-learn, Pandas, NumPy, TensorFlow), SQL, Power BI
-- **Specialties:** Machine Learning, Deep Learning, Time Series Forecasting, Data Engineering, Data Warehousing, Dashboard Development
+```bash
+Languages: Python, SQL, T-SQL
+Libraries: Scikit-learn, Pandas, NumPy, TensorFlow
+Platforms: Power BI, Jupyter, Git, AWS, BigQuery
+Specialties: ML, DL, Data Engineering, Time Series, Dashboards, ETL
 
 ---
 
