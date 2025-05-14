@@ -32,6 +32,11 @@ Libraries: Scikit-learn, Pandas, NumPy, TensorFlow
 Platforms: Power BI, Jupyter, and exploring on Git, AWS, BigQuery
 Specialties: ML, DL, Data Engineering, Time Series, Dashboards, ETL
 ```
+---
+## 🔥 The projects I would like to share are for educational purposes only
+-🔮 data-warehouse-project: Scalable warehouse architecture using T-SQL
+-📈 BTC-Project: Bitcoin price prediction with ML
+-🛡️ Credit Card Fraud Detection: Anomaly detection in financial transactions
 
 ---
 
