@@ -19,21 +19,6 @@
 
 ---
 
-## 📈 Current Projects
-
-- **Official Development Assistance (ODA) Data Analysis**: Building interactive dashboards and predictive models using Python, Power BI, and TensorFlow
-- **Personal Data Science Portfolio**: Featuring real-world projects in machine learning, data engineering, and BI
-
----
-
-## 🏆 Achievements
-
-- 🥇 Grade A in **Bac II National Exam**
-- 🎤 Guest Speaker at **Ministry of Commerce (MOC)** event on study techniques
-- 📚 Multiple certifications in **Data Science, Deep Learning, Power BI, and AWS Cloud Foundations**
-
----
-
 ## 🌐 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menghout-chhon/)
