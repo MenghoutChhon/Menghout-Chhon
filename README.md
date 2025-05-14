@@ -33,6 +33,7 @@ Currently exploring **time series forecasting** and **large language models (LLM
 **Platforms & Tools:** VS Code, Jupyter Notebook, Power BI, PostgreSQL, SQL Server, MySQL, Git, AWS, Google BigQuery  
 
 **Specialties:** Machine Learning (ML), Deep Learning (DL), Data Engineering, Time Series Analysis, Dashboards, ETL Pipelines  
+
 ---
 ## 🔥 Projects for Educational Purposes Only
 
