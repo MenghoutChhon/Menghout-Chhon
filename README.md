@@ -27,10 +27,13 @@ Currently exploring **time series forecasting** and **large language models (LLM
 ## 👾 Cyber Skills
 
 ```bash
-Languages: Python, SQL, T-SQL
-Libraries: Scikit-learn, Pandas, NumPy, TensorFlow
-Platforms: Power BI, Jupyter, and exploring on Git, AWS, BigQuery
-Specialties: ML, DL, Data Engineering, Time Series, Dashboards, ETL
+**Languages:** Python, SQL, T-SQL  
+
+**Libraries & Frameworks:** Scikit-learn, Pandas, NumPy, TensorFlow  
+
+**Platforms & Tools:** VS Code, Jupyter Notebook, Power BI, PostgreSQL, SQL Server, MySQL, Git, AWS, Google BigQuery  
+
+**Specialties:** Machine Learning (ML), Deep Learning (DL), Data Engineering, Time Series Analysis, Dashboards, ETL Pipelines  
 ```
 ---
 ## 🔥 Projects for Educational Purposes Only
