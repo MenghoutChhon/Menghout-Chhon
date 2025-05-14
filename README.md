@@ -29,7 +29,7 @@ Currently exploring **time series forecasting** and **large language models (LLM
 ```bash
 Languages: Python, SQL, T-SQL
 Libraries: Scikit-learn, Pandas, NumPy, TensorFlow
-Platforms: Power BI, Jupyter, Git, AWS, BigQuery
+Platforms: Power BI, Jupyter, and exploring on Git, AWS, BigQuery
 Specialties: ML, DL, Data Engineering, Time Series, Dashboards, ETL
 ```
 
