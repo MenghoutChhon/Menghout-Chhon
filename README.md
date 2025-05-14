@@ -25,7 +25,7 @@ I thrive on solving real-world problems using:
 - 📈 Data Engineering & Data Warehousing
 - 📊 Business Intelligence & Predictive Modeling
 
-Currently exploring **time series forecasting** and **large language models (LLMs)**.
+Currently exploring **Time series forecasting** and **Large language models (LLMs)**.
 
 ---
 
