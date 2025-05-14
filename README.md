@@ -33,10 +33,13 @@ Platforms: Power BI, Jupyter, and exploring on Git, AWS, BigQuery
 Specialties: ML, DL, Data Engineering, Time Series, Dashboards, ETL
 ```
 ---
-## 🔥 The projects I would like to share are for educational purposes only
--🔮 data-warehouse-project: Scalable warehouse architecture using T-SQL
--📈 BTC-Project: Bitcoin price prediction with ML
--🛡️ Credit Card Fraud Detection: Anomaly detection in financial transactions
+## 🔥 Projects for Educational Purposes Only
+
+> The following projects are shared solely for educational purposes:
+
+- 🔮 **Data Warehouse Project**: Scalable warehouse architecture using T-SQL  
+- 📈 **BTC Project**: Bitcoin price prediction using Machine Learning  
+- 🛡️ **Credit Card Fraud Detection**: Anomaly detection in financial transactions  
 
 ---
 
