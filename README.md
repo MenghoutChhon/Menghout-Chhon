@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/BI%20&%20Dashboard-%2300FFFF?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-
 ---
 
 ## 🧠 About Me
