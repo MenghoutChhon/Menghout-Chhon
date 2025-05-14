@@ -1,17 +1,21 @@
 <!-- Banner Image -->
-<img src="https://github.com/MenghoutChhon/MenghoutChhon/assets/main/banner.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/12345678/your-banner.png" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;Data+Science+Engineer+%7C+AI+Explorer+%7C+Blockchain+Enthusiast+%7C+Cyberpunk+Dreamer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;AI+%7C+ML+%7C+Deep+Learning+%7C+Blockchain+%7C+Data+Engineering+%7C+Cloud+Analytics;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-PowerShell-5A4FCF?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-Solidity-363636?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-%2300FFFF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300FFFF?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%2300FFFF?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blockchain-%2300FFFF?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-%2300FFFF?style=for-the-badge&logo=amazon-aws&logoColor=black" />
+  <img src="https://img.shields.io/badge/BigQuery-%2300FFFF?style=for-the-badge&logo=google-cloud&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-%2300FFFF?style=for-the-badge&logo=dataspell&logoColor=black" />
+  <img src="https://img.shields.io/badge/BI%20&%20Dashboard-%2300FFFF?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
 
 ---
 
