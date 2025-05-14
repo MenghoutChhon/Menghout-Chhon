@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;AI+%7C+ML+%7C+Deep+Learning+%7C+Blockchain+%7C+Data+Engineer+%7C;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;AI+%7C+ML+%7C+Blockchain+%7C+Data+Engineer+%7C;" alt="Typing SVG" />
 </p>
 
 <p align="center">
