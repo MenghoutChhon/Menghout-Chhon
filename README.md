@@ -1,6 +1,4 @@
 <!-- Banner Image -->
-<img src="https://github.com/user-attachments/assets/001706a9-10f3-4ed2-a1f0-e1f834c07a0c" width="100%" />
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&width=800&lines=Hello%2C+I'm+Menghout+Chhon!;AI+%7C+ML+%7C+Blockchain+%7C+Data+Engineer;" alt="Typing SVG" />
 </p>
