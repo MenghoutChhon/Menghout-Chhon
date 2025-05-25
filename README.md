@@ -29,9 +29,7 @@ Calm under pressure, detail-oriented, and committed to delivering scalable, prod
 **Aid Management Policy & ODA Data Analysis Intern**  
 *Council for the Development of Cambodia*  
 - Analyzed Official Development Assistance (ODA) data to produce policy recommendations  
-- Developed data pipelines and dashboards for decision-making support  
-- Automated ETL processes for reporting efficiency
-
+- Developed dashboards for decision-making support  
 ---
 
 ## 👾 Skills
