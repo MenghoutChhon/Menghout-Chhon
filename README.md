@@ -16,60 +16,71 @@
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 Profile
 
-**Data Science Engineering student** @ Institute of Technology of Cambodia  
-Turning raw data into actionable insights.  
-Solving real-world problems with:
-- 🧮 Machine Learning & Deep Learning
-- 📈 Data Engineering & Warehousing
-- 📊 Business Intelligence & Predictive Modeling
-
-*Current focus: Time Series Forecasting & Large Language Models (LLMs)*
+Driven Data Science senior with hands-on experience in predictive modeling, data preprocessing, and BI dashboard development.  
+Skilled at turning raw data into actionable insights, with a proven record in real-world data engineering and machine learning projects.  
+Calm under pressure, detail-oriented, and committed to delivering scalable, production-ready solutions.
 
 ---
 
-## 👾 Cyber Skills
+## 🏢 Experience
 
-**Languages:** Python, SQL, T-SQL  
-**Libraries:** Scikit-learn, Pandas, NumPy, TensorFlow  
-**Platforms & Tools:** Power BI, PostgreSQL, SQL Server, MySQL, AWS, BigQuery, VS Code, Jupyter, Git  
-**Specialties:** ML, DL, Data Engineering, Time Series Analysis, Dashboards, ETL Pipelines
+**Aid Management Policy & ODA Data Analysis Intern**  
+*Council for the Development of Cambodia*  
+- Analyzed Official Development Assistance (ODA) data to produce policy recommendations  
+- Developed data pipelines and dashboards for decision-making support  
+- Automated ETL processes for reporting efficiency
+
+---
+
+## 👾 Skills
+
+**Languages & Libraries:**  
+Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL
+
+**BI & Visualization:**  
+Power BI
+
+**Data Engineering:**  
+ETL design, Data warehousing, Time-series forecasting
+
+**DevOps & Tools:**  
+Docker, Git, BigQuery
+
+**Soft Skills:**  
+Analytical thinking, Collaboration, Communication, Project management
 
 ---
 
 ## 🚀 Featured Projects
 
-> For learning and open collaboration:
+- [**Data Warehouse Project**](https://github.com/MenghoutChhon)  
+  *Enterprise-scale warehouse and BI pipeline using T-SQL & Power BI*
 
-- [**Data Warehouse Project**](https://github.com/YOUR-USERNAME/YOUR-WAREHOUSE-REPO)  
-  _Scalable warehouse for business analytics with T-SQL & Power BI_
+- [**BTC Price Prediction**](https://github.com/MenghoutChhon)  
+  *Bitcoin price forecasting with advanced machine learning and time-series modeling*
 
-- [**BTC Price Prediction**](https://github.com/YOUR-USERNAME/YOUR-BTC-REPO)  
-  _Bitcoin forecasting with ML & advanced time series models_
+- [**Credit Card Fraud Detection**](https://github.com/MenghoutChhon)  
+  *Financial anomaly detection using ML and GNNs for fraud prevention*
 
-- [**Credit Card Fraud Detection**](https://github.com/YOUR-USERNAME/YOUR-FRAUD-REPO)  
-  _Anomaly detection in financial data (ML & GNNs)_
-
-<!-- Replace the URLs above with actual repo links when you publish them! -->
+<!-- Replace above links with actual project repo links as you build them! -->
 
 ---
 
 ## 🌐 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menghout-chhon/)  
-📍 Phnom Penh, Cambodia
+📍 Phnom Penh, Cambodia · menghoutchhon003@gmail.com
 
 ---
 
-## 🏆 GitHub Stats & Trophies
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=menghout-chhon&theme=algolia&margin-w=10&margin-h=10" alt="Trophies" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=menghout-chhon&show_icons=true&theme=algolia&hide=stars,prs" alt="Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=menghout-chhon&theme=algolia" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MenghoutChhon&show_icons=true&theme=algolia&hide=stars,prs" alt="Stats" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MenghoutChhon&theme=algolia" alt="Streak Stats" />
 </p>
 
 ---
@@ -77,4 +88,3 @@ Solving real-world problems with:
 ## 💡 Fun Fact
 
 _Je suis un gars cool et j'adore aller en boîte de nuit._ 🎶🍻
-
