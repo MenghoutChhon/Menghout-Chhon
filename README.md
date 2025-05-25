@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 Profile
 
-Driven Data Science senior with hands-on experience in predictive modeling, data preprocessing, and BI dashboard development.  
+Driven Data Science senior student with hands-on experience in predictive modeling, data preprocessing, and BI dashboard development.  
 Skilled at turning raw data into actionable insights, with a proven record in real-world data engineering and machine learning projects.  
 Calm under pressure, detail-oriented, and committed to delivering scalable, production-ready solutions.
 
