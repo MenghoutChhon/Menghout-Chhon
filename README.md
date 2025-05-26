@@ -53,16 +53,15 @@ Analytical thinking, Collaboration, Communication, Project management
 
 ## 🚀 Featured Projects
 
-- [**Data Warehouse Project**](https://github.com/MenghoutChhon)  
+- [**Data Warehouse Project**](https://github.com/MenghoutChhon/data-warehouse-project) 
   *Enterprise-scale warehouse and BI pipeline using T-SQL & Power BI*
 
-- [**BTC Price Prediction**](https://github.com/MenghoutChhon)  
+- [**BTC Price Prediction**](https://github.com/MenghoutChhon/BTC-Project)  
   *Bitcoin price forecasting with advanced machine learning and time-series modeling*
 
-- [**Credit Card Fraud Detection**](https://github.com/MenghoutChhon)  
+- [**Credit Card Fraud Detection**](https://github.com/MenghoutChhon/Credit_Card_Fraud_Detection)  
   *Financial anomaly detection using ML and GNNs for fraud prevention*
 
-<!-- Replace above links with actual project repo links as you build them! -->
 
 ---
 
